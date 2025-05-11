@@ -1,0 +1,2 @@
+- name: Github Action for Solanaizer
+  uses: solanaizer/solanaizer-action@0.2.0
